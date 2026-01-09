@@ -1,20 +1,16 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![YaliHuang](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree in Computer Technology at the School of Computer Science and Artificial Intelligence of Zhengzhou University.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>hyl2024@gs.zzu.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Zhengzhou University**, Master of Computer Technology (2023 – 2026)  
+• GPA: 3.96/4.5  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Zhejiang Sci-Tech University**, Bachelor of  Computer Science and Technology (2015 – 2019)  
+• GPA: 3.5/5.0 (top 5%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+CV; Cross Doamin Few-Shot; Object Detection

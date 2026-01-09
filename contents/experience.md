@@ -1,21 +1,40 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
-
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+### **Software Test Engineer**  
+**Sep. 2020 –Apr. 2022 | Henan Yunzhihui Intelligent Technology Co., Ltd.**  
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Executed testing for over 20 customized software projects, including visualization dashboards, data migration systems, and monitoring platforms.
+- Designed test plans, established Linux-based test environments, and performed functional and performance testing.
+- Contributed to building an automated testing framework using Karate.
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+### **软件测试工程师  
+**2020年9月 – 2022年4月 | 河南云智慧智能科技有限公式**  
 
 #### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- 累计负责近20个定制化项目的测试，包括可视化大屏、数据库数据迁移、监测点性能测试、基于公司产品定制化运维平台等。
+- 工作输出内容包括测试用例、在linux系统下搭建测试环境、部署待测项目、执行测试、编写部署文档以及交付代码包。
+- 完成基础设施监控平台产品迭代的功能/性能测试，参与自动化测试框架搭建（Karate）。
+
+
+
+### **Software Test Engineer**
+
+**Jun. 2019 –Sep. 2020 | Hangzhou QuanDouLaiLe Network Technology Co., Ltd.**
+
+#### Key Contributions:
+
+- Participated in multiple iterations of web/mobile product testing, ensuring high-quality releases.
+- Received the "Best Newcomer Award" from the company among the new employees of the same batch.
+
+------
+
+### **软件测试工程师
+
+**2019年6月 – 2020年9月 | 杭州全都来了网络科技有限公司 
+
+#### 主要贡献:
+
+- 独立负责5+个定制化微信小程序功能测试；参与web/移动端产品线十余次迭代测试。
+- 在同批次入职新人中获得公司“最佳新人奖”。
+
