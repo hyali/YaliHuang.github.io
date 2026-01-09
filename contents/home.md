@@ -1,4 +1,4 @@
-[![YaliHuang](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![YaliHuang](https://github.com/hyali)](https://github.com/XX)
 
 I'm currently pursuing a Master's degree in Computer Technology at the School of Computer Science and Artificial Intelligence of Zhengzhou University.
 
